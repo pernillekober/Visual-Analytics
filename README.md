@@ -20,4 +20,4 @@ Choose files to add: git add filename \
 Commit files and descriptive message: git commit -m "message" \
 Push added updates: git push 
 
-More: https://github.com/git-guides/git-pull \
+More: https://github.com/git-guides/git-pull 
