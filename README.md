@@ -1,9 +1,9 @@
 # Visual-Analytics
 Visual Analytics course. Group assignment and projects.
 
----- getting repository ---- \newline
-git clone https://github.com/pernillekober/VA-A2.git
-username: your_username
+---- getting repository ---- \\
+git clone https://github.com/pernillekober/VA-A2.git \\
+username: your_username \\
 password: your_access_token - https://github.com/settings/tokens
 
 ---- Branches ----
