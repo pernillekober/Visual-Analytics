@@ -1,0 +1,17 @@
+﻿Account 2-digits;Account Type;Account Group
+20;Salaries-1;People 
+21;Salaries-2;People 
+22;Pension & Bonus & Ad Hoc PayOuts;People 
+23;Raw Materials;Manufacturing
+24;Price Variation;Manufacturing
+27;Price Adjustments;Manufacturing
+28;Transport-Road;Manufacturing
+30;Shipment;Manufacturing
+31;Safety;Manufacturing
+32;Depreciation-Building;Other Costs
+34;Depreciation-Machinery;Other Costs
+37;Depreciation-IT Equip;Other Costs
+38;Capacity Costs-1 ;Other Costs
+39;Capacity Costs-2;Other Costs
+47;Capacity Costs-3;Other Costs
+48;Capacity Costs-4;Other Costs
