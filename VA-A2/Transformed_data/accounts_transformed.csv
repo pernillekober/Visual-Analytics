@@ -1,0 +1,17 @@
+,AccountCode,AccountType,AccountGroup
+0,20,Salaries-1,People
+1,21,Salaries-2,People
+2,22,Pension & Bonus & Ad Hoc PayOuts,People
+3,23,Raw Materials,Manufacturing
+4,24,Price Variation,Manufacturing
+5,27,Price Adjustments,Manufacturing
+6,28,Transport-Road,Manufacturing
+7,30,Shipment,Manufacturing
+8,31,Safety,Manufacturing
+9,32,Depreciation-Building,Other Costs
+10,34,Depreciation-Machinery,Other Costs
+11,37,Depreciation-IT Equip,Other Costs
+12,38,Capacity Costs-1,Other Costs
+13,39,Capacity Costs-2,Other Costs
+14,47,Capacity Costs-3,Other Costs
+15,48,Capacity Costs-4,Other Costs
